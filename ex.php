@@ -124,7 +124,7 @@ if ($totalGasto < $dinheiroDisponivel) {
  
 echo "7 - "
 
-$valorAVista = 22500.00;
+$valorAVista = 22500,00;
 
 $valorParcela = 489.65;
 
